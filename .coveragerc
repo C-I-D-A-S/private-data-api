@@ -1,0 +1,4 @@
+[run]
+omit =
+    */__init__.py
+    data_api/test/*
